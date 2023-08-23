@@ -7,14 +7,13 @@
 
 
 ## 🎥 UniUnity Demo Video
-
-데모영상 보러가기 : https://youtu.be/ozfzr-Q0uF4
-
+데모영상 보러가기 : https://youtu.be/dg2AahO6aq0
 
 
 ## 📑 UniUnity Manual
+서비스 매뉴얼 보러가기 : https://drive.google.com/file/d/1VwAK1Bhoa43EM2uQWBX-gt_fz0IsjMLf/view?usp=sharing
 
-서비스 매뉴얼 보러가기 : https://drive.google.com/file/d/1e8Ybv5VcfjB6uPWnTLnKHbsUjCe4dRb3/view?usp=sharing
+서비스 사용해보기 : http://uniunity.store
                         
 
 ## 🎤 Presentation
