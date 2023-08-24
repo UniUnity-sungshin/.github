@@ -4,6 +4,7 @@
 
 소상공인 상가 정보와 제휴혜택 정보를 제공하고, 대학교와 학생, 인근상권 상인에게 커뮤니티를 제공해요!
 
+![uniunity포스터](https://github.com/UniUnity-sungshin/UniUnity/assets/80438964/3c4085bd-bbaa-4a72-bf69-4daf582fc1c8)
 
 
 ## 🎥 UniUnity Demo Video
@@ -15,12 +16,6 @@
 
 서비스 사용해보기 : http://uniunity.store
                         
-
-## 🎤 Presentation
-
-발표자료 보러가기 : https://www.canva.com/design/DAFkxUfQBFA/DZe_NN65SR_vMIDLbEnM_A/view?utm_content=DAFkxUfQBFA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
-
-
 
 ## 📌 More details
 UniUnity Code & Readme : https://github.com/UniUnity-sungshin/UniUnity
